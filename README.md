@@ -40,6 +40,7 @@ I'm also continuously expanding my expertise in **TypeScript**, **React.js**, an
 ### Backend 
 * `PHP`
 * `Laravel`
+* `Sanctum`
 * `Restful API`
 * `Eloquent ORM`
 
