@@ -16,11 +16,11 @@ I consider myself a growing full stack developer who enjoys building application
 
 ### How to reach me
 let SCREEN_NAME = "kentillation"
-Facebook: facebook.com/SCREEN_NAME
-Instagram: instagram.com/SCREEN_NAME
-LinkedIn: linkedin.com/in/SCREEN_NAME
-Email: kentanthonyengbino@gmail.com
-Website: kentanthonyengbino.vercel.app
+* Facebook: facebook.com/SCREEN_NAME
+* Instagram: instagram.com/SCREEN_NAME
+* LinkedIn: linkedin.com/in/SCREEN_NAME
+* Email: kentanthonyengbino@gmail.com
+* Website: kentanthonyengbino.vercel.app
 
 ### Pronouns
 He/Him
