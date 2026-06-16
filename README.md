@@ -1,6 +1,6 @@
-# Mabuhay🇵🇭!
+# Hello, World!
 
-I am **Kent Anthony Engbino**. I consider myself a growing full stack developer who enjoys building applications from concept to deployment. I have experience working on both client-side and server-side development, and I continuously explore better ways to improve performance, usability, and system design. I remain committed to learning and improving through every project I handle.
+I am **Kent Anthony C. Engbino** from Philippines. I consider myself a growing full stack developer who enjoys building applications from concept to deployment. I have experience working on both client-side and server-side development, and I continuously explore better ways to improve performance, usability, and system design. I remain committed to learning and improving through every project I handle.
 
 ## Goals
 
@@ -10,9 +10,9 @@ I am **Kent Anthony Engbino**. I consider myself a growing full stack developer 
 
 ## Current Status
 
-* I'm currently developing **Locinder**, a mobile application designed to promote local products and businesses by helping users discover nearby stores that offer their favorite food and cravings. The platform features map integration to provide accurate store locations, making it easier for customers to find and support local establishments.
+I'm currently developing **Locinder**, a mobile application designed to promote local products and businesses by helping users discover nearby stores that offer their favorite food and cravings. The platform features map integration to provide accurate store locations, making it easier for customers to find and support local establishments.
 
-* I'm also continuously expanding my expertise in **TypeScript**, **React.js**, and modern web development practices to build scalable, maintainable, and user-friendly applications.
+I'm also continuously expanding my expertise in **TypeScript**, **React.js**, and modern web development practices to build scalable, maintainable, and user-friendly applications.
 
 ## How to reach me
 
@@ -20,10 +20,10 @@ I am **Kent Anthony Engbino**. I consider myself a growing full stack developer 
 * [My Instagram Account](https://instagram.com/kentillation)
 * [My LinkedIn Account](https://linkedin.com/in/kentillation)
 * [My Digital Portfolio](https://kentanthonyengbino.vercel.app)
-* [My Email](https://emailto:kentanthonyengbino@gmail.com)
+* [My Email Address](https://emailto:kentanthonyengbino@gmail.com)
 
 ## Pronouns
-He or Him
+`He` or `Him`
 
 ## Technology tools
 
