@@ -1,4 +1,4 @@
-# Hi, I'm Kent Anthony 👋
+## Hi, I'm Kent Anthony 👋
 
 I consider myself a growing full stack developer who enjoys building applications from concept to deployment. I have experience working on both client-side and server-side development, and I continuously explore better ways to improve performance, usability, and system design. I remain committed to learning and improving through every project I handle.
 
@@ -10,9 +10,9 @@ I consider myself a growing full stack developer who enjoys building application
 
 ### Current Status
 
-I'm currently developing Locinder, a mobile application designed to promote local products and businesses by helping users discover nearby stores that offer their favorite food and cravings. The platform features map integration to provide accurate store locations, making it easier for customers to find and support local establishments.
+* I'm currently developing Locinder, a mobile application designed to promote local products and businesses by helping users discover nearby stores that offer their favorite food and cravings. The platform features map integration to provide accurate store locations, making it easier for customers to find and support local establishments.
 
-I'm also continuously expanding my expertise in TypeScript, React.js, and modern web development practices to build scalable, maintainable, and user-friendly applications.
+* I'm also continuously expanding my expertise in TypeScript, React.js, and modern web development practices to build scalable, maintainable, and user-friendly applications.
 
 ### How to reach me
 let SCREEN_NAME = "kentillation"
