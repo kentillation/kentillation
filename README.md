@@ -1,6 +1,6 @@
 # Hello, World!
 
-I am **Kent Anthony C. Engbino** from Philippines. I consider myself a growing full stack developer who enjoys building applications from concept to deployment. I have experience working on both client-side and server-side development, and I continuously explore better ways to improve performance, usability, and system design. I remain committed to learning and improving through every project I handle.
+I am **Kent Anthony C. Engbino** from the Philippines. I consider myself a growing full stack developer who enjoys building applications from concept to deployment. I have experience working on both client-side and server-side development, and I continuously explore better ways to improve performance, usability, and system design. I remain committed to learning and improving through every project I handle.
 
 ## Goals
 
@@ -47,7 +47,7 @@ I'm also continuously expanding my expertise in **TypeScript**, **React.js**, an
 * `Pusher` - real-time communication service
 * `Paymonggo` - online payment gateway for the Philippines
 * `WAMP Server` - local development server
-* `Postman` API testing and development tool
+* `Postman` - API testing and development tool
 * `Figma` - UI/UX design and prototyping tool
 * `npm(Node Package Manager)` - JavaScript package manager for Node.js
 * `Composer` - PHP dependency manager
