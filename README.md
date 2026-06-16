@@ -14,14 +14,6 @@ I'm currently developing **Locinder**, a mobile application designed to promote 
 
 I'm also continuously expanding my expertise in **TypeScript**, **React.js**, and modern web development practices to build scalable, maintainable, and user-friendly applications.
 
-## How to reach me
-
-* [My Facebook Account](https://facebook.com/kentillation)
-* [My Instagram Account](https://instagram.com/kentillation)
-* [My LinkedIn Account](https://linkedin.com/in/kentillation)
-* [My Digital Portfolio](https://kentanthonyengbino.vercel.app)
-* [My Email Address](https://emailto:kentanthonyengbino@gmail.com)
-
 ## Pronouns
 `He` or `Him`
 
@@ -59,3 +51,11 @@ I'm also continuously expanding my expertise in **TypeScript**, **React.js**, an
 * `Figma` - UI/UX design and prototyping tool
 * `npm(Node Package Manager)` - JavaScript package manager for Node.js
 * `Composer` - PHP dependency manager
+
+## Connect with me
+
+* [My Facebook Account](https://facebook.com/kentillation)
+* [My Instagram Account](https://instagram.com/kentillation)
+* [My LinkedIn Account](https://linkedin.com/in/kentillation)
+* [My Digital Portfolio](https://kentanthonyengbino.vercel.app)
+* [My Email Address](https://emailto:kentanthonyengbino@gmail.com)
