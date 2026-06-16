@@ -19,11 +19,11 @@ I am **Kent Anthony Engbino**. I consider myself a growing full stack developer 
 * [My Facebook Account](https://facebook.com/kentillation)
 * [My Instagram Account](https://instagram.com/kentillation)
 * [My LinkedIn Account](https://linkedin.com/in/kentillation)
-* [My Website](https://kentanthonyengbino.vercel.app)
+* [My Digital Portfolio](https://kentanthonyengbino.vercel.app)
 * [My Email](https://emailto:kentanthonyengbino@gmail.com)
 
 ## Pronouns
-He/Him
+He or Him
 
 ## Technology tools
 
@@ -44,8 +44,7 @@ He/Him
 * `Eloquent ORM`
 
 ### Databases
-* `MySQL`
-* `SQL`
+`MySQL` and `SQL`
 
 ### Software
 * `Visual Studio Code` - code editor
