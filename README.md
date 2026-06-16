@@ -1,4 +1,4 @@
-# Mabuhay!
+# Mabuhay🇵🇭!
 
 I am **Kent Anthony Engbino**. I consider myself a growing full stack developer who enjoys building applications from concept to deployment. I have experience working on both client-side and server-side development, and I continuously explore better ways to improve performance, usability, and system design. I remain committed to learning and improving through every project I handle.
 
