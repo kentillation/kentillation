@@ -27,20 +27,34 @@ He/Him
 
 ## Technology tools
 
-### Main languages
+### Frontend
 * `HTML`
 * `CSS`
 * `JavaScript`
 * `TypeScript`
-* `PHP`
-  
-### Frameworks & Libraries
 * `Bootstrap`
 * `Vue.js`
 * `React.js`
 * `Axios`
+
+### Backend 
+* `PHP`
 * `Laravel`
-  
+* `Restful API`
+* `Eloquent ORM`
+
 ### Databases
 * `MySQL`
 * `SQL`
+
+### Software
+* `Visual Studio Code`
+* `Git`
+* `Vercel`
+* `Pusher`
+* `Paymonggo`
+* `wampServer`
+* `Postman`
+* `Figma`
+* `npm(Node.js)`
+* `composer`
