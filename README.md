@@ -1,4 +1,4 @@
-## Mabuhay, I'm Kent Anthony 👋
+## Mabuhay, I'm Kent Anthony!
 
 I consider myself a growing full stack developer who enjoys building applications from concept to deployment. I have experience working on both client-side and server-side development, and I continuously explore better ways to improve performance, usability, and system design. I remain committed to learning and improving through every project I handle.
 
@@ -15,10 +15,10 @@ I consider myself a growing full stack developer who enjoys building application
 * I'm also continuously expanding my expertise in **TypeScript**, **React.js**, and modern web development practices to build scalable, maintainable, and user-friendly applications.
 
 ### How to reach me
-let SCREEN_NAME = "kentillation"
-* **Facebook**: facebook.com/SCREEN_NAME
-* **Instagram**: instagram.com/SCREEN_NAME
-* **LinkedIn**: linkedin.com/in/SCREEN_NAME
+
+* [My Facebook Account](https://facebook.com/kentillation)
+* [My Instagram Account](https://instagram.com/kentillation)
+* [My LinkedIn Account](https://linkedin.com/in/kentillation)
 * **Email**: kentanthonyengbino@gmail.com
 * **Website**: kentanthonyengbino.vercel.app
 
