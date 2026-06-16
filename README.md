@@ -58,5 +58,5 @@ I'm also continuously expanding my expertise in **TypeScript**, **React.js**, an
 * [My Instagram Account](https://instagram.com/kentillation)
 * [My LinkedIn Account](https://linkedin.com/in/kentillation)
 * [My Digital Portfolio](https://kentanthonyengbino.vercel.app)
-* [My Mobile Number](tel:+639453145499)
+* [My Mobile Number](https://tel:+639453145499)
 * [My Email Address](mailto:kentanthonyengbino@gmail.com)
