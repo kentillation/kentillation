@@ -19,8 +19,8 @@ I consider myself a growing full stack developer who enjoys building application
 * [My Facebook Account](https://facebook.com/kentillation)
 * [My Instagram Account](https://instagram.com/kentillation)
 * [My LinkedIn Account](https://linkedin.com/in/kentillation)
-* **Email**: kentanthonyengbino@gmail.com
-* **Website**: kentanthonyengbino.vercel.app
+* [My Website](https://kentanthonyengbino.vercel.app)
+* [My Email](https://emailto:kentanthonyengbino@gmail.com)
 
 ### Pronouns
 He/Him
