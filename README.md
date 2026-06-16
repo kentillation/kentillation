@@ -47,14 +47,14 @@ He or Him
 `MySQL` and `SQL`
 
 ### Software
-* `Visual Studio Code` - code editor
-* `Git` - version control system
-* `Vercel` - deployment tool for frontend apps
-* `DirectAdmin` - web hosting control panel
-* `Pusher` - real-time communication service
-* `Paymonggo` - online payment gateway for the Philippines
-* `WAMP Server` - local development server
-* `Postman` API testing and development tool
-* `Figma` - UI/UX design and prototyping tool
-* `npm(Node Package Manager)` - JavaScript package manager for Node.js
-* `Composer` - PHP dependency manager
+`Visual Studio Code` - code editor
+`Git` - version control system
+`Vercel` - deployment tool for frontend apps
+`DirectAdmin` - web hosting control panel
+`Pusher` - real-time communication service
+`Paymonggo` - online payment gateway for the Philippines
+`WAMP Server` - local development server
+`Postman` API testing and development tool
+`Figma` - UI/UX design and prototyping tool
+`npm(Node Package Manager)` - JavaScript package manager for Node.js
+`Composer` - PHP dependency manager
