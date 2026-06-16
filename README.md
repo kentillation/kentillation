@@ -54,8 +54,8 @@ I'm also continuously expanding my expertise in **TypeScript**, **React.js**, an
 
 ## Connect with me
 
-* [My Facebook Account](https://facebook.com/kentillation)
-* [My Instagram Account](https://instagram.com/kentillation)
-* [My LinkedIn Account](https://linkedin.com/in/kentillation)
-* [My Digital Portfolio](https://kentanthonyengbino.vercel.app)
-* [My Email Address](mailto:kentanthonyengbino@gmail.com)
+* [Facebook Account](https://facebook.com/kentillation)
+* [Instagram Account](https://instagram.com/kentillation)
+* [LinkedIn Account](https://linkedin.com/in/kentillation)
+* [Digital Portfolio](https://kentanthonyengbino.vercel.app)
+* [Email Address](mailto:kentanthonyengbino@gmail.com)
