@@ -6,18 +6,19 @@ Software Developer (JavaScript | PHP)
 I build web applications from concept to deployment, focusing on clean UI, scalable backend systems, and efficient user experiences.
 
 I work with:
-- JavaScript (Vue.js / React.js)
-- PHP (Laravel / Core PHP)
-- MySQL
-- REST APIs
+* JavaScript (Vue.js / React.js)
+* PHP (Laravel / Core PHP)
+* MySQL
+* REST APIs
 
 I’m continuously improving my skills in system design, performance optimization, and modern web development practices.
 
 ## Goals
 
-* Contribute to impactful software solutions
-* Continuously improve my problem-solving and programming skills
-* Collaborate with developers and learn from the tech community
+* Build and contribute to real-world full-stack web applications using JavaScript and PHP
+* Strengthen my skills in backend development, API design, and system architecture
+* Improve problem-solving through hands-on project development
+* Collaborate with developers and gain experience in production-level software workflows
 
 ## Current Status
 
