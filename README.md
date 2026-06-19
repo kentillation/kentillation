@@ -59,6 +59,8 @@ I am also actively improving my skills in **TypeScript**, **React.js**, and mode
 * `Pusher` - real-time communication service
 * `Paymonggo` - online payment gateway for the Philippines
 * `npm and Composer` - package management
+* `Capacitor` - native builder for Android apps
+* `Android Studio` - building, testing, and emulating Android apps
 
 ## Connect with me
 
