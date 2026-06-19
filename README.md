@@ -37,8 +37,8 @@ I am also actively improving my skills in **TypeScript**, **React.js**, and mode
 ### Frontend
 * `HTML`, `CSS`, `JavaScript`, `TypeScript`
 * `Vue.js`, `React.js`
-* `Axios`
 * `Pinia`
+* `Axios`
 * `Bootstrap`
 
 ### Backend 
@@ -54,8 +54,6 @@ I am also actively improving my skills in **TypeScript**, **React.js**, and mode
 * `Visual Studio Code` - code editor
 * `Git and GitHub` - version control system
 * `Postman` - API testing and development tool
-* `Pinia` - state management
-* `Axios` - bridge between front-end and backend API
 * `Figma` - UI/UX design and prototyping tool
 * `Vercel` - deployment tool for frontend apps
 * `DirectAdmin` - web hosting control panel
