@@ -1,6 +1,17 @@
-# Hello, World!
 
-I am **Kent Anthony C. Engbino** from the Philippines. I consider myself a growing full-stack developer who enjoys building applications from concept to deployment. I have experience working on both client-side and server-side development, and I continuously explore better ways to improve performance, usability, and system design. I remain committed to learning and improving through every project I handle.
+# Hi, I’m Kent Anthony C. Engbino 👋
+
+Software Developer (JavaScript | PHP)
+
+I build web applications from concept to deployment, focusing on clean UI, scalable backend systems, and efficient user experiences.
+
+I work with:
+- JavaScript (Vue.js / React.js)
+- PHP (Laravel / Core PHP)
+- MySQL
+- REST APIs
+
+I’m continuously improving my skills in system design, performance optimization, and modern web development practices.
 
 ## Goals
 
