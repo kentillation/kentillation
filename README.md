@@ -45,7 +45,7 @@ I am also actively improving my skills in **TypeScript**, **React.js**, and mode
 * `Laravel Sanctum`
 * `Eloquent ORM`
 
-### Databases
+### Database
 `MySQL`
 
 ### Tools and Platforms
@@ -62,6 +62,11 @@ I am also actively improving my skills in **TypeScript**, **React.js**, and mode
 
 ## Connect with me
 
-Portfolio: https://kentanthonyengbino.vercel.app
-LinkedIn: https://linkedin.com/in/kentillation
-Email: kentanthonyengbino@gmail.com
+* Portfolio:
+  https://kentanthonyengbino.vercel.app
+* LinkedIn:
+  https://linkedin.com/in/kentillation
+* Email:
+  kentanthonyengbino@gmail.com
+* Mobile number:
+  +639453145499
