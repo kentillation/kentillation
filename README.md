@@ -1,5 +1,5 @@
 
-# Hi, I’m Kent Anthony C. Engbino 👋
+# Hi, I’m Kent Anthony Engbino 👋
 
 Software Developer (JavaScript | PHP)
 
