@@ -31,7 +31,7 @@ I am also actively improving my skills in **TypeScript**, **React.js**, and mode
 ## Pronouns
 `He` or `Him`
 
-## Technology tools
+## Technology Stack
 
 ### Frontend
 * `HTML`, `CSS`, `JavaScript`, `TypeScript`
