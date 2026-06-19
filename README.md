@@ -22,9 +22,11 @@ I’m continuously improving my skills in system design, performance optimizatio
 
 ## Current Status
 
-I'm currently developing **Locinder**, a mobile application designed to promote local products and businesses by helping users discover nearby stores that offer their favorite food and cravings. The platform features map integration to provide accurate store locations, making it easier for customers to find and support local establishments.
+I am currently developing **Locinder**, a mobile application that helps users discover nearby local food products and businesses. It integrates map-based location services to improve accessibility and make store discovery faster and more accurate.
 
-I'm also continuously expanding my expertise in **TypeScript**, **React.js**, and modern web development practices to build scalable, maintainable, and user-friendly applications.
+The system focuses on connecting customers with local establishments through a simple and user-friendly interface.
+
+I am also actively improving my skills in **TypeScript**, **React.js**, and modern frontend development practices to build scalable and maintainable applications.
 
 ## Pronouns
 `He` or `Him`
@@ -32,42 +34,34 @@ I'm also continuously expanding my expertise in **TypeScript**, **React.js**, an
 ## Technology tools
 
 ### Frontend
-* `HTML`
-* `CSS`
-* `JavaScript`
-* `TypeScript`
+* `HTML`, `CSS`, `JavaScript`, `TypeScript`
+* `Vue.js`, `React.js`
 * `Bootstrap`
-* `Vue.js`
-* `React.js`
 * `Axios`
 
 ### Backend 
-* `PHP`
-* `Laravel`
-* `Sanctum`
-* `Restful API`
+* `PHP (Laravel)`
+* `RESTful APIs`
+* `Laravel Sanctum`
 * `Eloquent ORM`
 
 ### Databases
-`MySQL` and `SQL`
+`MySQL`
 
-### Software
+### Tools and Platforms
 * `Visual Studio Code` - code editor
-* `Git` - version control system
-* `Vercel` - deployment tool for frontend apps
-* `DirectAdmin` - web hosting control panel
-* `Pusher` - real-time communication service
-* `Paymonggo` - online payment gateway for the Philippines
-* `WAMP Server` - local development server
+* `Git and GitHub` - version control system
 * `Postman` - API testing and development tool
 * `Figma` - UI/UX design and prototyping tool
-* `npm(Node Package Manager)` - JavaScript package manager for Node.js
-* `Composer` - PHP dependency manager
+* `Vercel` - deployment tool for frontend apps
+* `DirectAdmin` - web hosting control panel
+* `WAMP Server` - local development server
+* `Pusher` - real-time communication service
+* `Paymonggo` - online payment gateway for the Philippines
+* `npm and Composer` - package management
 
 ## Connect with me
 
-* [Facebook Account](https://facebook.com/kentillation)
-* [Instagram Account](https://instagram.com/kentillation)
-* [LinkedIn Account](https://linkedin.com/in/kentillation)
-* [Digital Portfolio](https://kentanthonyengbino.vercel.app)
-* [Email Address](mailto:kentanthonyengbino@gmail.com)
+Portfolio: https://kentanthonyengbino.vercel.app
+LinkedIn: https://linkedin.com/in/kentillation
+Email: kentanthonyengbino@gmail.com
