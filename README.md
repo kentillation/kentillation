@@ -63,10 +63,10 @@ I am also actively improving my skills in **TypeScript**, **React.js**, and mode
 ## Connect with me
 
 * Portfolio:
-  https://kentanthonyengbino.vercel.app
+  - https://kentanthonyengbino.vercel.app
 * LinkedIn:
-  https://linkedin.com/in/kentillation
+  - https://linkedin.com/in/kentillation
 * Email:
-  kentanthonyengbino@gmail.com
+  - kentanthonyengbino@gmail.com
 * Mobile number:
-  +639453145499
+  - +639453145499
