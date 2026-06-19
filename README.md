@@ -37,8 +37,9 @@ I am also actively improving my skills in **TypeScript**, **React.js**, and mode
 ### Frontend
 * `HTML`, `CSS`, `JavaScript`, `TypeScript`
 * `Vue.js`, `React.js`
-* `Bootstrap`
 * `Axios`
+* `Pinia`
+* `Bootstrap`
 
 ### Backend 
 * `PHP (Laravel)`
