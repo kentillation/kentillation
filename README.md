@@ -1,4 +1,3 @@
-
 # Hi, I’m Kent Anthony Engbino 👋
 
 Software Developer (JavaScript | PHP)
@@ -10,8 +9,8 @@ I work with:
 * Pinia
 * Axios
 * PHP (Laravel / Core PHP)
-* MySQL
 * REST APIs
+* MySQL
 
 I’m continuously improving my skills in system design, performance optimization, and modern web development practices.
 
@@ -55,7 +54,7 @@ I am also actively improving my skills in **TypeScript**, **React.js**, and mode
 * `Git and GitHub` - version control system
 * `Postman` - API testing and development tool
 * `Pinia` - state management
-* `Axios` - messenger between front-end and backend API
+* `Axios` - bridge between front-end and backend API
 * `Figma` - UI/UX design and prototyping tool
 * `Vercel` - deployment tool for frontend apps
 * `DirectAdmin` - web hosting control panel
