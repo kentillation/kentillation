@@ -28,7 +28,8 @@ Locinder is a location-based mobile and web application that helps users discove
 Links:
 * [View Project](https://github.com/kentillation/locinder-customer)
 * [Live Application](https://locinder.poofsa.com)
-* Demo account available upon request
+
+Demo accounts available upon request
 
 ## Technology Stack
 
