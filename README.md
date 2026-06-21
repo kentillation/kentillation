@@ -13,10 +13,7 @@ Locinder is a location-based mobile and web application that helps users discove
 
 **Tech Stack:** JavaScript, Vue.js, Laravel, MySQL, OpenStreetMap, MapTiler, and Capacitor
 
-- Interactive map integration
-- Business discovery system
-- Mobile-ready application
-- RESTful API architecture
+**Core Features** Interactive map integration, Business discovery system, Mobile-ready application, RESTful API architecture
 
 * Repository: [View Project](https://github.com/kentillation/locinder-customer)
 * Demo Link: [Live Application](https://locinder.poofsa.com)
