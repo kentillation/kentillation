@@ -1,36 +1,22 @@
 # Hi, I’m Kent Anthony Engbino 👋
 
-Software Developer (JavaScript | PHP)
+Software Developer specializing in `JavaScript (Vue.js)`, `PHP (Laravel)`, `RESTful APIs`, `MySQL` and modern web technologies.
 
-I build web applications from concept to deployment, focusing on clean UI, scalable backend systems, and efficient user experiences.
+I build scalable web applications from frontend interfaces to backend APIs, focusing on clean code, maintainable architecture, and user-centered experiences.
 
-I work with:
-* JavaScript (Vue.js / React.js)
-* Pinia
-* Axios
-* PHP (Laravel / Core PHP)
-* REST APIs
-* MySQL
+## Featured Project
 
-I’m continuously improving my skills in system design, performance optimization, and modern web development practices.
+### Locinder
+My current project which is a location-based mobile and web application that helps users discover nearby local businesses and food products.
 
-## Goals
+**Tech Stack:** JavaScript, Vue.js, Laravel, MySQL, OpenStreetMap, MapTiler, and Capacitor
 
-* Build and contribute to real-world full-stack web applications using JavaScript and PHP
-* Strengthen my skills in backend development, API design, and system architecture
-* Improve problem-solving through hands-on project development
-* Collaborate with developers and gain experience in production-level software workflows
+- Interactive map integration
+- Business discovery system
+- Mobile-ready application
+- RESTful API architecture
 
-## Current Status
-
-I am currently developing **Locinder**, a mobile application that helps users discover nearby local food products and businesses. It integrates map-based location services to improve accessibility and make store discovery faster and more accurate.
-
-The system focuses on connecting customers with local establishments through a simple and user-friendly interface.
-
-I am also actively improving my skills in **TypeScript**, **React.js**, and modern frontend development practices to build scalable and maintainable applications.
-
-## Pronouns
-`He` or `Him`
+Repository: https://github.com/kentillation/locinder-customer
 
 ## Technology Stack
 
@@ -64,9 +50,27 @@ I am also actively improving my skills in **TypeScript**, **React.js**, and mode
 * `Capacitor` - native builder for Android apps
 * `Android Studio` - building, testing, and emulating Android apps
 
+## Currently Learning
+
+* TypeScript
+* React.js
+* Advance System Design
+* Performance Optimization
+* Software Architecture
+
+## Open to Opportunities
+
+I am currently seeking entry-level and junior opportunities in:
+
+* Frontend Development
+* Backend Development
+* Full-Stack Development
+* Web Development
+* Software Engineering
+
 ## Connect with me
 
-- Portfolio: https://kentanthonyengbino.vercel.app
-- LinkedIn: https://linkedin.com/in/kentillation
-- Email: kentanthonyengbino@gmail.com
-- Mobile number: +639453145499
+* Portfolio: https://kentanthonyengbino.vercel.app
+* LinkedIn: https://linkedin.com/in/kentillation
+* Email: kentanthonyengbino@gmail.com
+* Mobile number: +639453145499
