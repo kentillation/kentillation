@@ -11,21 +11,28 @@ I build scalable web applications from frontend interfaces to backend APIs, focu
 ### Locinder
 Locinder is a location-based mobile and web application that helps users discover nearby local businesses and food products through interactive map services and real-time location data.
 
-**Tech Stack:** JavaScript, Vue.js, Laravel, MySQL, OpenStreetMap, MapTiler, Capacitor, and Android Studio
+**Tech Stack:**
+* Vue.js
+* Laravel
+* MySQL
+* OpenStreetMap
+* Capacitor
 
-**Core Features** Interactive map integration, Business discovery system, Mobile-ready application, RESTful API architecture
+**Core Features**
+* Interactive map integration
+* Business discovery system
+* Mobile-ready application
+* RESTful API architecture
 
 * Repository: [View Project](https://github.com/kentillation/locinder-customer)
 * Demo Link: [Live Application](https://locinder.poofsa.com)
-* Credentials:
-  - Email: kent.customer@test.com
-  - Password: kent1234
+* Demo account available upon request
 
 ## Technology Stack
 
 ### Frontend
-* `HTML`, `CSS`, `JavaScript`, `TypeScript`
-* `Vue.js`, `React.js`
+* `HTML`, `CSS`, `JavaScript`
+* `Vue.js`
 * `Pinia`
 * `Axios`
 * `Bootstrap`
