@@ -26,8 +26,8 @@ Locinder is a location-based mobile and web application that helps users discove
 * RESTful API architecture
 
 Links:
-* [View Project](https://github.com/kentillation/locinder-customer)
-* [Live Application](https://locinder.poofsa.com)
+* [View Repository](https://github.com/kentillation/locinder-customer)
+* [View Live Application](https://locinder.poofsa.com)
 
 Demo accounts available upon request
 
