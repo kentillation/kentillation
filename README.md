@@ -12,12 +12,7 @@ I build scalable web applications from frontend interfaces to backend APIs, focu
 Locinder is a location-based mobile and web application that helps users discover nearby local businesses and food products through interactive map services and real-time location data.
 
 **Project Tech Stack:**
-* Vue.js
-* Laravel
-* MySQL
-* OpenStreetMap
-* MapTiler
-* Capacitor
+`Vue.js` `Vuetify` `Axios` `Pinia` `Laravel` `MySQL` `OpenStreetMap` `MapTiler` `Capacitor`
 
 **Core Features**
 * Interactive map integration
