@@ -1,13 +1,15 @@
 # Hi, I’m Kent Anthony Engbino 👋
 
-Software Developer specializing in `JavaScript (Vue.js)`, `PHP (Laravel)`, `RESTful APIs`, `MySQL` and modern web technologies.
+Software Developer specializing in modern web applications and RESTful API development.
+
+JavaScript • Vue.js • PHP • Laravel • MySQL
 
 I build scalable web applications from frontend interfaces to backend APIs, focusing on clean code, maintainable architecture, and user-centered experiences.
 
 ## Featured Project
 
 ### Locinder
-My current project which is a location-based mobile and web application that helps users discover nearby local businesses and food products.
+Locinder is a location-based mobile and web application that helps users discover nearby local businesses and food products through interactive map services and real-time location data.
 
 **Tech Stack:** JavaScript, Vue.js, Laravel, MySQL, OpenStreetMap, MapTiler, and Capacitor
 
@@ -16,7 +18,11 @@ My current project which is a location-based mobile and web application that hel
 - Mobile-ready application
 - RESTful API architecture
 
-Repository: https://github.com/kentillation/locinder-customer
+Repository: [View Project](https://github.com/kentillation/locinder-customer)
+Demo Link: [Live Application](https://locinder.poofsa.com)
+Credentials:
+* Email: kent.customer@test.com
+* Password: kent1234
 
 ## Technology Stack
 
@@ -54,7 +60,7 @@ Repository: https://github.com/kentillation/locinder-customer
 
 * TypeScript
 * React.js
-* Advance System Design
+* Advanced System Design
 * Performance Optimization
 * Software Architecture
 
