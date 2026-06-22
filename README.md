@@ -2,17 +2,17 @@
 
 Software Developer specializing in modern web applications and RESTful API development.
 
-JavaScript • Vue.js • PHP • Laravel • MySQL
+JavaScript • TypeScript • Vue.js • PHP • Laravel • MySQL
 
 I build scalable web applications from frontend interfaces to backend APIs, focusing on clean code, maintainable architecture, and user-centered experiences.
 
 ## Featured Project
 
 ### Locinder
-Locinder is a location-based mobile and web application that helps users discover nearby local businesses and food products through interactive map services and real-time location data.
+Locinder (local finder) is a location-based mobile and web application that helps users discover nearby local businesses and food products through interactive map services and real-time location data.
 
 **Project Tech Stack:**
-`Vue.js` `Vuetify` `Axios` `Pinia` `Laravel` `MySQL` `OpenStreetMap` `MapTiler` `Capacitor`
+`TypeScript` `Vue.js` `Vuetify` `HugeIcons` `Axios` `Pinia` `Laravel` `MySQL` `OpenStreetMap` `MapTiler` `Capacitor`
 
 **Core Features**
 * Interactive map integration
@@ -29,7 +29,7 @@ Demo accounts available upon request
 ## Technology Stack
 
 ### Frontend
-* `HTML`, `CSS`, `JavaScript`
+* `HTML`, `CSS`, `JavaScript`, `TypeScript`
 * `Vue.js`
 * `Pinia`
 * `Axios`
@@ -60,8 +60,8 @@ Demo accounts available upon request
 
 ## Currently Learning
 
-* TypeScript
 * React.js
+* Docker
 * Advanced System Design
 * Performance Optimization
 * Software Architecture
