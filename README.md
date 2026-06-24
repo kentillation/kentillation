@@ -9,7 +9,7 @@ I build scalable web applications from frontend interfaces to backend APIs, focu
 ## Featured Project
 
 ### Locinder
-Locinder (local finder) is a location-based mobile and web application that helps users discover nearby local businesses and food products through interactive map services and real-time location data.
+A location-based mobile and web application that helps users discover nearby local food products and businesses through interactive mapping and geolocation services. The platform provides accurate store locations and proximity-based search capabilities, enabling users to efficiently locate local establishments while helping businesses improve their visibility within the community.
 
 **Project Tech Stack:**
 `JavaScript` `Vue.js` `Vuetify` `HugeIcons` `Axios` `Pinia` `Laravel` `MySQL` `OpenStreetMap` `MapTiler` `Capacitor`
