@@ -1,8 +1,8 @@
 # Hi, I’m Kent Anthony Engbino 👋
 
-Software Developer specializing in modern web applications and RESTful API development.
+Software Developer specializing in modern web applications and platforms.
 
-JavaScript • TypeScript • Vue.js • PHP • Laravel • C# • MySQL
+JavaScript • TypeScript • Vue.js • React.js • PHP • Laravel • C# • MySQL • RESTful API
 
 I build scalable web applications from front-end interfaces to back-end APIs, focusing on clean code, maintainable architecture, and user-centred experiences.
 
@@ -61,14 +61,12 @@ Demo accounts available upon request
 
 ## Currently Learning
 
-* React.js
 * Docker
-* Advanced System Design
-* Performance Optimization
+* Xendit Payment Gateway
 
 ## Open to Opportunities
 
-I am currently seeking entry-level and junior opportunities in:
+I am currently seeking opportunities in:
 
 * Frontend Development
 * Backend Development
