@@ -2,9 +2,9 @@
 
 Software Developer specializing in modern web applications and RESTful API development.
 
-JavaScript • TypeScript • Vue.js • PHP • Laravel • MySQL
+JavaScript • TypeScript • Vue.js • PHP • Laravel • C# • MySQL
 
-I build scalable web applications from frontend interfaces to backend APIs, focusing on clean code, maintainable architecture, and user-centered experiences.
+I build scalable web applications from front-end interfaces to back-end APIs, focusing on clean code, maintainable architecture, and user-centred experiences.
 
 ## Featured Project
 
@@ -37,6 +37,7 @@ Demo accounts available upon request
 
 ### Backend 
 * `PHP (Laravel)`
+* `C#`
 * `RESTful APIs`
 * `Laravel Sanctum`
 * `Eloquent ORM`
@@ -64,7 +65,6 @@ Demo accounts available upon request
 * Docker
 * Advanced System Design
 * Performance Optimization
-* Software Architecture
 
 ## Open to Opportunities
 
