@@ -23,7 +23,7 @@ A location-based mobile and web application that helps users discover nearby loc
 Links:
 * [View Repository](https://github.com/kentillation/locinder-customer)
 * [View Live Application](https://locinder.poofsa.com)
-* [Link AppBuildersPH](https://appbuildersph.com/apps/locinder)
+* [View on AppBuildersPH](https://appbuildersph.com/apps/locinder)
 
 Demo accounts available upon request
 
