@@ -45,7 +45,7 @@ I build scalable web applications from front-end interfaces to back-end APIs, fo
 A location-based mobile and web application that helps users discover nearby local food products and businesses through interactive mapping and geolocation services. The platform provides accurate store locations and proximity-based search capabilities, enabling users to efficiently locate local establishments while helping businesses improve their visibility within the community.
 
 **Project Tech Stack:**
-`JavaScript` `Vue.js` `Vuetify` `HugeIcons` `Axios` `Pinia` `Laravel` `MySQL` `OpenStreetMap` `MapTiler` `Capacitor`
+`JavaScript` `Vue.js` `Vuetify` `HugeIcons` `Axios` `Pinia` `PHP` `Laravel` `Sanctum` `Eloquent ORM` `RESTful API` `MySQL` `OpenStreetMap` `MapTiler` `Capacitor`
 
 **Core Features**
 * Interactive map integration
@@ -58,17 +58,29 @@ Links:
 * [View Live Application](https://locinder.poofsa.com)
 * [View on AppBuildersPH](https://appbuildersph.com/apps/locinder)
 
-Demo accounts available upon request
+### Unified Commerce Platform
+An end-to-end retail and operations management platform designed to centralize POS, inventory, order fulfillment, and multi-branch management. By providing real-time analytics, inventory synchronization, and centralized operational oversight, the system enhances efficiency, scalability, and decision-making across business locations.
+
+**Project Tech Stack:**
+`JavaScript` `Vue.js` `Vuetify` `MaterialDesignIcons` `Axios` `Pinia` `PHP` `Laravel` `Sanctum` `Eloquent ORM` `RESTful API` `MySQL`
+
+**Core Features**
+* Point of Sale (POS) System
+* Inventory Tracking & Stock Control
+* Order Processing & Management
+* Multi-Branch Operations Management
+* Business Analytics & Reporting Dashboard
+
+Links:
+* [View Repository](https://github.com/kentillation/poofsa-frontend-tend)
+* [View Live Application](https://poofsa-tend.vercel.app)
 
 ## Currently Learning
-
 * Docker
 * Xendit Payment Gateway
 
 ## Open to Opportunities
-
 I am currently seeking opportunities in:
-
 * Frontend Development
 * Backend Development
 * Full-Stack Development
@@ -76,7 +88,6 @@ I am currently seeking opportunities in:
 * Software Engineering
 
 ## Connect with me
-
 * Portfolio: https://kentanthonyengbino.vercel.app
 * LinkedIn: https://linkedin.com/in/kentillation
 * Email: kentanthonyengbino@gmail.com
