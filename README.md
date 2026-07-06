@@ -76,8 +76,7 @@ Links:
 * [View Live Application](https://poofsa-tend.vercel.app)
 
 ## Currently Learning
-* Docker
-* Xendit Payment Gateway
+* Laravel deployment in AWS
 
 ## Open to Opportunities
 I am currently seeking opportunities in:
