@@ -9,12 +9,14 @@ I build scalable web applications from front-end interfaces to back-end APIs, fo
 ### Frontend
 * `HTML`, `CSS`, `JavaScript`, `TypeScript`
 * `Vue.js`
+* `React.js`
 * `Pinia`
 * `Axios`
 * `Bootstrap`
 
 ### Backend 
-* `PHP (Laravel)`
+* `PHP`
+* `Laravel`
 * `C#`
 * `RESTful APIs`
 * `Laravel Sanctum`
