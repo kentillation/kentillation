@@ -2,30 +2,7 @@
 
 Software Developer specializing in modern web applications and platforms.
 
-JavaScript • TypeScript • Vue.js • React.js • PHP • Laravel • C# • MySQL • RESTful API
-
 I build scalable web applications from front-end interfaces to back-end APIs, focusing on clean code, maintainable architecture, and user-centred experiences.
-
-## Featured Project
-
-### Locinder
-A location-based mobile and web application that helps users discover nearby local food products and businesses through interactive mapping and geolocation services. The platform provides accurate store locations and proximity-based search capabilities, enabling users to efficiently locate local establishments while helping businesses improve their visibility within the community.
-
-**Project Tech Stack:**
-`JavaScript` `Vue.js` `Vuetify` `HugeIcons` `Axios` `Pinia` `Laravel` `MySQL` `OpenStreetMap` `MapTiler` `Capacitor`
-
-**Core Features**
-* Interactive map integration
-* Business discovery system
-* Mobile-ready application
-* RESTful API architecture
-
-Links:
-* [View Repository](https://github.com/kentillation/locinder-customer)
-* [View Live Application](https://locinder.poofsa.com)
-* [View on AppBuildersPH](https://appbuildersph.com/apps/locinder)
-
-Demo accounts available upon request
 
 ## Technology Stack
 
@@ -59,6 +36,27 @@ Demo accounts available upon request
 * `npm and Composer` - package management
 * `Capacitor` - native builder for Android apps
 * `Android Studio` - building, testing, and emulating Android apps
+
+## Featured Project
+
+### Locinder
+A location-based mobile and web application that helps users discover nearby local food products and businesses through interactive mapping and geolocation services. The platform provides accurate store locations and proximity-based search capabilities, enabling users to efficiently locate local establishments while helping businesses improve their visibility within the community.
+
+**Project Tech Stack:**
+`JavaScript` `Vue.js` `Vuetify` `HugeIcons` `Axios` `Pinia` `Laravel` `MySQL` `OpenStreetMap` `MapTiler` `Capacitor`
+
+**Core Features**
+* Interactive map integration
+* Business discovery system
+* Mobile-ready application
+* RESTful API architecture
+
+Links:
+* [View Repository](https://github.com/kentillation/locinder-customer)
+* [View Live Application](https://locinder.poofsa.com)
+* [View on AppBuildersPH](https://appbuildersph.com/apps/locinder)
+
+Demo accounts available upon request
 
 ## Currently Learning
 
