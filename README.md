@@ -76,7 +76,7 @@ Links:
 * [View Live Application](https://poofsa-tend.vercel.app)
 
 ## Currently Learning
-* Laravel deployment in AWS
+* Amazon Web Services (AWS)
 
 ## Open to Opportunities
 I am currently seeking opportunities in:
