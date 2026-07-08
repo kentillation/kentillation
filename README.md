@@ -19,7 +19,7 @@ I build scalable web applications from front-end interfaces to back-end APIs, fo
 * `Laravel`
 * `C#`
 * `Go`
-* `RESTful APIs`
+* `REST`
 * `Laravel Sanctum`
 * `Eloquent ORM`
 
