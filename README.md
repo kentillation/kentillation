@@ -46,7 +46,7 @@ I build scalable web applications from front-end interfaces to back-end APIs, fo
 A location-based mobile and web application that helps users discover nearby local food products and businesses through interactive mapping and geolocation services. The platform provides accurate store locations and proximity-based search capabilities, enabling users to efficiently locate local establishments while helping businesses improve their visibility within the community.
 
 **Project Tech Stack:**
-`JavaScript` `Vue.js` `Vuetify` `HugeIcons` `Axios` `Pinia` `PHP` `Laravel` `Sanctum` `Eloquent ORM` `RESTful API` `MySQL` `OpenStreetMap` `MapTiler` `Capacitor`
+`JavaScript` `Vue.js` `Vuetify` `HugeIcons` `Axios` `Pinia` `PHP` `Laravel` `Sanctum` `Eloquent ORM` `REST` `MySQL` `OpenStreetMap` `MapTiler` `Capacitor`
 
 **Core Features**
 * Interactive map integration
@@ -63,7 +63,7 @@ Links:
 An end-to-end retail and operations management platform designed to centralize POS, inventory, order fulfillment, and multi-branch management. By providing real-time analytics, inventory synchronization, and centralized operational oversight, the system enhances efficiency, scalability, and decision-making across business locations.
 
 **Project Tech Stack:**
-`JavaScript` `Vue.js` `Vuetify` `MaterialDesignIcons` `Axios` `Pinia` `PHP` `Laravel` `Sanctum` `Eloquent ORM` `RESTful API` `MySQL` `PayMonggo`
+`JavaScript` `Vue.js` `Vuetify` `MaterialDesignIcons` `Axios` `Pinia` `PHP` `Laravel` `Sanctum` `Eloquent ORM` `REST` `MySQL` `PayMonggo`
 
 **Core Features**
 * Point of Sale (POS) System
