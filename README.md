@@ -29,10 +29,12 @@ I build scalable web applications from front-end interfaces to back-end APIs, fo
 ### Tools and Platforms
 * `Visual Studio Code` - code editor
 * `Git and GitHub` - version control system
+* `GitHub Actions` - CI/CD pipeline automation
 * `Postman` - API testing and development tool
 * `Figma` - UI/UX design and prototyping tool
 * `Vercel` - deployment tool for frontend apps
 * `DirectAdmin` - web hosting control panel
+* `AWS` - cloud computing services
 * `WAMP Server` - local development server
 * `Pusher` - real-time communication service
 * `Paymonggo` - online payment gateway for the Philippines
@@ -77,7 +79,8 @@ Links:
 * [View Live Application](https://poofsa-tend.vercel.app)
 
 ## Currently Learning
-* Amazon Web Services (AWS)
+* PayMonggo Split Payment
+* Docker
 
 ## Open to Opportunities
 I am currently seeking opportunities in:
