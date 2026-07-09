@@ -10,6 +10,7 @@ I build scalable web applications from front-end interfaces to back-end APIs, fo
 * `HTML`, `CSS`, `JavaScript`, `TypeScript`
 * `Vue.js`
 * `React.js`
+* `Angular`
 * `Pinia`
 * `Axios`
 * `Bootstrap`
