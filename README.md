@@ -31,18 +31,18 @@ I build scalable web applications from front-end interfaces to back-end APIs, fo
 ### Tools and Platforms
 * `Visual Studio Code` - code editor
 * `Git and GitHub` - version control system
-* `GitHub Actions` - CI/CD pipeline automation
-* `Postman` - API testing and development tool
 * `Figma` - UI/UX design and prototyping tool
-* `Vercel` - deployment tool for frontend apps
-* `DirectAdmin` - web hosting control panel
-* `AWS` - cloud computing services
 * `WAMP Server` - local development server
 * `Pusher` - real-time communication service
 * `Paymonggo` - online payment gateway for the Philippines
 * `npm and Composer` - package management
+* `Postman` - API testing and development tool
+* `GitHub Actions` - CI/CD pipeline automation
 * `Capacitor` - native builder for Android apps
 * `Android Studio` - building, testing, and emulating Android apps
+* `Vercel` - deployment tool for frontend apps
+* `DirectAdmin` - web hosting control panel
+* `AWS (EC2, RDS, Elastic Beanstalk, S3, VPC)` - cloud computing services
 
 ## Featured Project
 
