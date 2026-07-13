@@ -34,7 +34,7 @@ I build scalable web applications from front-end interfaces to back-end APIs, fo
 * `Figma` - UI/UX design and prototyping tool
 * `WAMP Server` - local development server
 * `Pusher` - real-time communication service
-* `Paymonggo` - online payment gateway for the Philippines
+* `PayMonggo` - online payment gateway for the Philippines
 * `npm and Composer` - package management
 * `Postman` - API testing and development tool
 * `GitHub Actions` - CI/CD pipeline automation
