@@ -10,7 +10,7 @@ I build scalable web applications from front-end interfaces to back-end APIs, fo
 * `HTML`, `CSS`, `JavaScript`, `TypeScript`
 * `Vue.js`
 * `React.js`
-* `Angular`
+* `Angular.js`
 * `Pinia`
 * `Axios`
 * `Bootstrap`
@@ -26,7 +26,7 @@ I build scalable web applications from front-end interfaces to back-end APIs, fo
 * `Eloquent ORM`
 
 ### Database
-`MySQL`
+`MySQL` `SQL Server`
 
 ### Tools and Platforms
 * `Visual Studio Code` - code editor
@@ -89,11 +89,11 @@ I am currently seeking opportunities in:
 * Frontend Development
 * Backend Development
 * Full-Stack Development
-* Web Development
+* Software Development
 * Software Engineering
 
 ## Connect with me
 * Portfolio: https://kentanthonyengbino.vercel.app
-* LinkedIn: https://linkedin.com/in/kentillation
+* LinkedIn: https://linkedin.com/in/kentanthonyengbino
 * Email: kentanthonyengbino@gmail.com
 * Mobile number: +639453145499
