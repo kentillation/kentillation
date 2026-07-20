@@ -7,9 +7,9 @@ I build secure and scalable web applications from front-end interfaces to back-e
 ## Technology Stack
 
 ### Frontend
-* `HTML`,
-* `CSS`,
-* `JavaScript`,
+* `HTML`
+* `CSS`
+* `JavaScript`
 * `TypeScript`
 * `Vue`
 * `React`
