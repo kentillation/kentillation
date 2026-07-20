@@ -7,10 +7,13 @@ I build scalable web applications from front-end interfaces to back-end APIs, fo
 ## Technology Stack
 
 ### Frontend
-* `HTML`, `CSS`, `JavaScript`, `TypeScript`
-* `Vue.js`
-* `React.js`
-* `Angular.js`
+* `HTML`,
+* `CSS`,
+* `JavaScript`,
+* `TypeScript`
+* `Vue`
+* `React`
+* `Angular`
 * `Pinia`
 * `Axios`
 * `Bootstrap`
