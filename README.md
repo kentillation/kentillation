@@ -2,7 +2,7 @@
 
 Software Developer specializing in modern web applications and platforms.
 
-I build scalable web applications from front-end interfaces to back-end APIs, focusing on clean code, maintainable architecture, and user-centred experiences.
+I build secure and scalable web applications from front-end interfaces to back-end APIs, focusing on clean code, maintainable architecture, and user-centred experiences.
 
 ## Technology Stack
 
@@ -25,8 +25,9 @@ I build scalable web applications from front-end interfaces to back-end APIs, fo
 * `.NET`
 * `Go`
 * `REST`
-* `Laravel Sanctum`
+* `Sanctum`
 * `Eloquent ORM`
+* `EF Core`
 
 ### Database
 `MySQL` `SQL Server`
@@ -44,8 +45,8 @@ I build scalable web applications from front-end interfaces to back-end APIs, fo
 * `Capacitor` - native builder for Android apps
 * `Android Studio` - building, testing, and emulating Android apps
 * `Vercel` - deployment tool for frontend apps
-* `DirectAdmin` - web hosting control panel
-* `AWS (EC2, RDS, Elastic Beanstalk, S3, VPC)` - cloud computing services
+* `DirectAdmin/cPanel` - web hosting control panel
+* `AWS (EC2, RDS, Elastic Beanstalk)` - cloud computing services
 
 ## Featured Project
 
