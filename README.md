@@ -1,8 +1,8 @@
 # Hi, I’m Kent Anthony Engbino 👋
 
-Software Developer specializing in modern web applications and platforms.
+Software Engineer specializing in modern web applications and ecosystems.
 
-I build secure and scalable web applications from front-end interfaces to back-end APIs, focusing on clean code, maintainable architecture, and user-centred experiences.
+I build secure and scalable web applications from front-end interfaces to back-end APIs, focusing on clean code, maintainable architecture, and user-centered experiences.
 
 ## Technology Stack
 
